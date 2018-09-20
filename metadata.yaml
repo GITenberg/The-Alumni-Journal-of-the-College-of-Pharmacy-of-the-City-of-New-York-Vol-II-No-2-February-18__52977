@@ -1,0 +1,31 @@
+_repo: The-Alumni-Journal-of-the-College-of-Pharmacy-of-the-City-of-New-York-Vol-II-No-2-February-18__52977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Kraemer, Henry
+    birthdate: 1868
+    deathdate: 1924
+    gutenberg_agent_id: '47146'
+    url: http://www.gutenberg.org/2009/agents/47146
+description: ''
+gutenberg_issued: '2016-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pharmacology -- Periodicals'
+- !lcsh 'College of Pharmacy of the City of New York -- Alumni and alumnae -- Periodicals'
+- !lcc 'RM'
+- GITenberg
+title: The Alumni Journal of the College of Pharmacy of the City of New York, Vol.
+  II, No. 2, February, 1895
+url: http://www.gutenberg.org/ebooks/52977
